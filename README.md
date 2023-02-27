@@ -15,4 +15,7 @@
 ### Delete an item, make a DELETE call to the above url. (Again this is a dummy call).
 
 
+### PRODUCT DEMO
+[LIVE PRODUCT](https://velvety-lollipop-4c8ee4.netlify.app/)
+
 
